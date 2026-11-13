@@ -1,0 +1,10 @@
+http://127.0.0.1:8099/lento/1
+http://127.0.0.1:8099/lento/2
+http://127.0.0.1:8099/lento/3
+http://127.0.0.1:8099/lento/4
+http://127.0.0.1:8099/lento/5
+http://127.0.0.1:8099/lento/6
+http://127.0.0.1:8099/ok
+http://127.0.0.1:8099/error
+http://127.0.0.1:8099/colgado
+http://127.0.0.1:1/no-existe

@@ -1,0 +1,5 @@
+https://juredev.com
+https://go.dev
+https://httpbin.org/status/503
+https://httpbin.org/delay/6
+https://no-existe.invalid

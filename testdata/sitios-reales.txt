@@ -1,0 +1,9 @@
+https://tipobits.com/
+https://example.com
+https://httpbin.org/status/200
+https://httpbin.org/status/404
+https://httpbin.org/status/500
+https://httpbin.org/delay/2
+https://httpbin.org/delay/6
+https://jsonplaceholder.typicode.com/posts
+https://dominio-inexistente-999.test

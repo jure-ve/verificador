@@ -1,0 +1,8 @@
+# Binarios compilados
+/verificador
+/verificador-linux
+/servidor-bin
+
+# Borrador del artículo
+Construye un verificador de URLs en Go concurrencia en la práctica.md
+
